@@ -1,0 +1,8 @@
+draft v2: 2035 The City That Thinks-draft.mp4 · 30 s · 960x540 · -13.9 LUFS, peak -3.2 dBFS · 4.6 min
+hook PASS · action 1 flag: #6 00:27.00-00:30.00 residual 0.77 total 0.77 CHECK: nothing moves · sound 0 flags · black 27.1–27.4 s
+look: review/qc-draft-v2/sheet-small.jpg (a frame every 2 s) · poster: review/qc-draft-v2/thumb-draft-v2-21s-768.jpg
+files: renders/draft-v2.mp4 · report: review/qc-draft-v2/report.txt · log: logs/make-draft.log
+SHOW THIS DRAFT NOW: the film /home/user/claude-code/films/the-city-that-thinks/2035 The City That Thinks-draft.mp4 and its poster /home/user/claude-code/films/the-city-that-thinks/review/qc-draft-v2/thumb-draft-v2-21s-768.jpg (Claude Code: SendUserFile with display 'render', they open in the side panel; elsewhere their paths and the page /home/user/claude-code/films/the-city-that-thinks/review/qc-draft-v2/thumb-draft-v2-21s-768.html in your message); then ALWAYS the delivery question with the question tool, in the user's language: Final ★ · Notes · Jury check (jury.md, six pinpoint questions, two or three minutes); nothing more is rendered until the user's notes are in notes/. Start the independent viewer now, in the background (templates/quick/REVIEWER.md, model inherit, its report review/critique-v2.md): the final waits for its verdict
+taste: colours AI designs overuse: slate, warm cream (a reason on the director card, or change it)
+words: 2 tells: 'OceanOS | Imagine Beyond' (run-up) (tools/words_check.py)
+qc: text: cap height 31 px < 40 px for phone viewing at 1920x1080

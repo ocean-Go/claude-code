@@ -1,0 +1,6 @@
+FAILED: capture.mjs (exit 1)
+/home/user/claude-code/films/the-city-that-thinks/logs/chrome.sh: 2: exec: /opt/pw-browsers/chromium-1243/chrome-linux/chrome: not found
+
+    at openPage (file:///home/user/claude-code/films/the-city-that-thinks/tools/capture.mjs:391:64)
+    at async file:///home/user/claude-code/films/the-city-that-thinks/tools/capture.mjs:106:15
+log: logs/make-stills.log

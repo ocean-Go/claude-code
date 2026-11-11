@@ -1,0 +1,6 @@
+FAILED: capture.mjs (exit 1)
+    at file:///home/user/claude-code/films/the-city-that-thinks/world.js:11:22
+    at file:///home/user/claude-code/films/the-city-that-thinks/world.js:325:3 (world.js:11)
+    at openPage (file:///home/user/claude-code/films/the-city-that-thinks/tools/capture.mjs:468:13)
+    at async file:///home/user/claude-code/films/the-city-that-thinks/tools/capture.mjs:106:15
+log: logs/make-stills.log

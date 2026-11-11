@@ -1,0 +1,9 @@
+draft v1: renders/draft-v1.mp4 (not delivered) · 30 s · 960x540 · -13.9 LUFS, peak -3.2 dBFS · 4.5 min
+hook PASS · action 1 flag: #6 00:27.00-00:30.00 residual 0.83 total 0.83 CHECK: nothing moves · sound 0 flags · black 27.1–28.2 s, LONG BLACK 27.1–28.2 s: black is punctuation (< 1 s); a line there needs its image, unless it is a card (purpose-cinematic.md §5), SOUND SLOP: 4 whooshes in 30 s (at most 2: keep them for the cuts that carry meaning). Score the rest with the music and the picture's own sounds (references/sound.md §5)
+look: review/qc-draft-v1/sheet-small.jpg (a frame every 2 s) · poster: review/qc-draft-v1/thumb-draft-v1-21s-768.jpg
+files: renders/draft-v1.mp4 · report: review/qc-draft-v1/report.txt · log: logs/make-draft.log
+NOT DELIVERED (sound slop): no draft has been delivered yet; this one is renders/draft-v1.mp4; one fix pass on the flagged windows (an action in each still one, a new picture for each repeat, scene lengths that vary), then make.py draft again: that one is shown, with what remains
+first draft: the silent test: from the sheet alone, one sentence on what the film is about; a miss is the first known item (engine.md §4)
+taste: the palette is the look family's untouched default (give the film its own, from its references) (a reason on the director card, or change it)
+words: 2 tells: 'OceanOS | Imagine Beyond' (run-up) (tools/words_check.py)
+qc: text: cap height 31 px < 40 px for phone viewing at 1920x1080

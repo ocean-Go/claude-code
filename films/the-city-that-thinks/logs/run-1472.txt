@@ -1,0 +1,6 @@
+FAILED: capture.mjs (exit 1)
+[1480:1480:1111/110317.055397:ERROR:content/browser/zygote_host/zygote_host_impl_linux.cc:102] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+    at openPage (file:///home/user/claude-code/films/the-city-that-thinks/tools/capture.mjs:391:64)
+    at async file:///home/user/claude-code/films/the-city-that-thinks/tools/capture.mjs:106:15
+log: logs/make-stills.log
