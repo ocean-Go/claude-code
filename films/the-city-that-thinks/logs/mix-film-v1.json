@@ -1,0 +1,31 @@
+{
+ "duration": 30,
+ "out": "audio/mix-film-v1.wav",
+ "layers": [
+  {
+   "file": "audio/film.wav",
+   "at": 0,
+   "bus": "music"
+  },
+  {
+   "file": "audio/vo-t/VO1.wav",
+   "at": 1.7,
+   "bus": "dialogue"
+  },
+  {
+   "file": "audio/vo-t/VO2.wav",
+   "at": 5.8,
+   "bus": "dialogue"
+  },
+  {
+   "file": "audio/vo-t/VO3.wav",
+   "at": 11.8,
+   "bus": "dialogue"
+  },
+  {
+   "file": "audio/vo-t/VO4.wav",
+   "at": 18.0,
+   "bus": "dialogue"
+  }
+ ]
+}

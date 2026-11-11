@@ -1,0 +1,4 @@
+Credits
+Michroma (SIL OFL 1.1)
+Barlow (SIL OFL 1.1)
+Kokoro TTS (Apache 2.0)

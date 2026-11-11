@@ -2,7 +2,7 @@
 
 Read this first in a new session, after loading the cinecode skill (Claude Code: the Skill tool, never a plain read of SKILL.md), then `python3 /home/user/claude-code/.claude/skills/cinecode/scripts/init_film.py . --update-tools` silently (the kit's newest tools). Kit: /home/user/claude-code/.claude/skills/cinecode · Method: `/home/user/claude-code/.claude/skills/cinecode/references/quick-mode.md`
 
-- **Phase:** 3b The rest
+- **Phase:** delivered
 - **Format source:** none
 - **Purpose:** ad & product (`references/purpose-ad.md`): a brand trailer for OceanOS
 - **Idea:** 2035, The City That Thinks: a sci-fi trailer in five scenes (city wakes, AI data center, new energy, super charging station, final panorama) ending on POWER THE FUTURE / OceanOS | Imagine Beyond (user)
@@ -21,13 +21,14 @@ Read this first in a new session, after loading the cinecode skill (Claude Code:
 - **Key moments:** 2.0 s the grid lights up (low hit) · 11.0 s cut to gold (arp enters) · 20.0 s the plug connects (hit) · 27.0 s the title (final hit) · **Thesis line:** Everything is connected. · **Ending:** POWER THE FUTURE / OceanOS | Imagine Beyond
 - **On-screen names:** none
 - **Sound design:** ambience per scene (air, room, air, city, air) · hits on the cuts, a riser into 24 s, ticks for the lights, a connect click at 20 s · ROOM hall 2.6 s · arrangement intro, build, lift, drive, peak, tail · lead: low-passed pluck arp
-- **Last output:** none yet
+- **Last output:** 2035 The City That Thinks.mp4 (final v1, 1920x1080, 30 s, -13.9 LUFS) · checks: hook PASS · action: end card flagged still (a title hold, intentional) · sound 0 flags · listening note sent yes · final rendered with --force, no independent viewer report (the user asked for no confirmation steps)
 - **Open notes:** none · words kept as the user wrote them: the brand line 'OceanOS | Imagine Beyond' and all five title cards (user)
 - **Revision round:** 0 of 2
 - **Re-plans:** none
-- **Next action:** build scenes, stills, draft, final (the brief says no step by step confirmation)
+- **Next action:** wait for the user's notes; a note goes back to a draft (round 1 of 2). Renders need CHROME_PATH=logs/chrome.sh (software WebGL)
 
 ## Log
 | Date | What | File |
 |---|---|---|
 | 2026-11-11 | card saved from the complete brief | STATE.md |
+| 2026-11-11 | draft v2 shown, final v1 rendered | 2035 The City That Thinks.mp4 |

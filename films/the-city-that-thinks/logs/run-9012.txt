@@ -1,0 +1,12 @@
+final v1: 2035 The City That Thinks.mp4 · 30 s · 1920x1080 · -13.9 LUFS, peak -3.2 dBFS · 13.1 min
+hook PASS · action 1 flag: #6 00:27.00-00:30.00 residual 0.69 total 0.69 CHECK: nothing moves · sound 0 flags · black 27.1–27.4 s
+look: review/qc-film-v1/sheet-small.jpg (a frame every 2 s) · poster: review/qc-film-v1/thumb-film-v1-21s-768.jpg
+files: renders/film-v1.mp4 · report: review/qc-film-v1/report.txt · log: logs/make-final.log
+CREDITS (2035 The City That Thinks-credits.txt): the delivery message carries them right under the film's path, headed IN CAPITALS in the user's language (Türkçe: "PAYLAŞIRKEN BU KÜNYE VİDEONUN AÇIKLAMASINA GİRMELİ"), the lines below in a code block the user copies as they are, never only the file's name: the video's description (YouTube) or the post's caption (Instagram, TikTok, X); nothing goes on the picture; one plain line why: the CC BY and CC BY-SA licences ask for it, and it answers a copyright claim.
+Michroma (SIL OFL 1.1)
+Barlow (SIL OFL 1.1)
+Kokoro TTS (Apache 2.0)
+viewer: no report on draft v2; the user asked for the final without it (--force)
+taste: colours AI designs overuse: slate, warm cream (a reason on the director card, or change it)
+words: 2 tells: 'OceanOS | Imagine Beyond' (run-up) (tools/words_check.py)
+qc: text: cap height 31 px < 40 px for phone viewing at 1920x1080

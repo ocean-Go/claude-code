@@ -1,8 +1,12 @@
-draft v2: 2035 The City That Thinks-draft.mp4 · 30 s · 960x540 · -13.9 LUFS, peak -3.2 dBFS · 4.6 min
-hook PASS · action 1 flag: #6 00:27.00-00:30.00 residual 0.77 total 0.77 CHECK: nothing moves · sound 0 flags · black 27.1–27.4 s
-look: review/qc-draft-v2/sheet-small.jpg (a frame every 2 s) · poster: review/qc-draft-v2/thumb-draft-v2-21s-768.jpg
-files: renders/draft-v2.mp4 · report: review/qc-draft-v2/report.txt · log: logs/make-draft.log
-SHOW THIS DRAFT NOW: the film /home/user/claude-code/films/the-city-that-thinks/2035 The City That Thinks-draft.mp4 and its poster /home/user/claude-code/films/the-city-that-thinks/review/qc-draft-v2/thumb-draft-v2-21s-768.jpg (Claude Code: SendUserFile with display 'render', they open in the side panel; elsewhere their paths and the page /home/user/claude-code/films/the-city-that-thinks/review/qc-draft-v2/thumb-draft-v2-21s-768.html in your message); then ALWAYS the delivery question with the question tool, in the user's language: Final ★ · Notes · Jury check (jury.md, six pinpoint questions, two or three minutes); nothing more is rendered until the user's notes are in notes/. Start the independent viewer now, in the background (templates/quick/REVIEWER.md, model inherit, its report review/critique-v2.md): the final waits for its verdict
+final v1: 2035 The City That Thinks.mp4 · 30 s · 1920x1080 · -13.9 LUFS, peak -3.2 dBFS · 13.1 min
+hook PASS · action 1 flag: #6 00:27.00-00:30.00 residual 0.69 total 0.69 CHECK: nothing moves · sound 0 flags · black 27.1–27.4 s
+look: review/qc-film-v1/sheet-small.jpg (a frame every 2 s) · poster: review/qc-film-v1/thumb-film-v1-21s-768.jpg
+files: renders/film-v1.mp4 · report: review/qc-film-v1/report.txt · log: logs/make-final.log
+CREDITS (2035 The City That Thinks-credits.txt): the delivery message carries them right under the film's path, headed IN CAPITALS in the user's language (Türkçe: "PAYLAŞIRKEN BU KÜNYE VİDEONUN AÇIKLAMASINA GİRMELİ"), the lines below in a code block the user copies as they are, never only the file's name: the video's description (YouTube) or the post's caption (Instagram, TikTok, X); nothing goes on the picture; one plain line why: the CC BY and CC BY-SA licences ask for it, and it answers a copyright claim.
+Michroma (SIL OFL 1.1)
+Barlow (SIL OFL 1.1)
+Kokoro TTS (Apache 2.0)
+viewer: no report on draft v2; the user asked for the final without it (--force)
 taste: colours AI designs overuse: slate, warm cream (a reason on the director card, or change it)
 words: 2 tells: 'OceanOS | Imagine Beyond' (run-up) (tools/words_check.py)
 qc: text: cap height 31 px < 40 px for phone viewing at 1920x1080
